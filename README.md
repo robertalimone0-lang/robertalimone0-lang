@@ -9,6 +9,8 @@ Most of my work lives in private repositories (commercial products, client work)
 **[ScanEdit Pro](https://scaneditpro.com)** — Browser-based and desktop (Tauri) OCR editor for scanned PDFs and images. Fully client-side OCR in English, Italian, Spanish and French, and editing that rebuilds the page background around every correction; documents never leave the device. The Mac app exports PDFs through a native Rust engine with mozjpeg compression. Scored **99/100** on [Legit.Show's production-readiness benchmark](https://legit.show/s/scaneditpro-com/2026-09-26): #1 in its category, top 1% of 13,854 services measured.
 `Tauri` `Rust` `fabric.js` `pdf.js` `Tesseract.js` `Cloudflare Pages`
 
+[![Measured on Legit.Show](https://legit.show/badge/scaneditpro-com.svg)](https://legit.show/s/scaneditpro-com)
+
 **[Ceramic artist portfolio](https://angelicatulimiero.net)** — Designed and built end to end for a working artist: content-driven rendering, image-heavy layout, deploy pipeline via GitHub → Cloudflare Pages.
 
 **Crime Investigator AI** — *In progress — the most ambitious project I've taken on.* A data archive aggregating solved and unsolved crime cases across Italy, with real-time analysis that flags missing evidence in an active investigation and proposes possible leads using mathematical and predictive trajectory modeling. Private repo, in active development.
