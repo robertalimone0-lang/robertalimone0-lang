@@ -6,8 +6,8 @@ Most of my work lives in private repositories (commercial products, client work)
 
 ## 🛠️ What I build
 
-**[ScanEdit Pro](https://scaneditpro.com)** — Browser-based and desktop (Tauri) OCR editor for scanned PDFs and images. Fully client-side OCR in English, Italian, Spanish and French, and editing that rebuilds the page background around every correction; documents never leave the device. Scored **99/100** on [Legit.Show's production-readiness benchmark](https://legit.show/s/scaneditpro-com/2026-09-26): #1 in its category, top 1% of 13,854 services measured.
-`Tauri` `fabric.js` `pdf.js` `Tesseract.js` `Cloudflare Pages`
+**[ScanEdit Pro](https://scaneditpro.com)** — Browser-based and desktop (Tauri) OCR editor for scanned PDFs and images. Fully client-side OCR in English, Italian, Spanish and French, and editing that rebuilds the page background around every correction; documents never leave the device. The Mac app exports PDFs through a native Rust engine with mozjpeg compression. Scored **99/100** on [Legit.Show's production-readiness benchmark](https://legit.show/s/scaneditpro-com/2026-09-26): #1 in its category, top 1% of 13,854 services measured.
+`Tauri` `Rust` `fabric.js` `pdf.js` `Tesseract.js` `Cloudflare Pages`
 
 **[Ceramic artist portfolio](https://angelicatulimiero.net)** — Designed and built end to end for a working artist: content-driven rendering, image-heavy layout, deploy pipeline via GitHub → Cloudflare Pages.
 
