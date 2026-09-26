@@ -6,7 +6,7 @@ Most of my work lives in private repositories (commercial products, client work)
 
 ## 🛠️ What I build
 
-**[ScanEdit Pro](https://scaneditpro.com)** — Browser-based and desktop (Tauri) OCR editor for scanned PDFs and images. Fully client-side OCR and editing; documents never leave the device. Ranked **#1 in its category (95/100)** on [Legit.Show's production-readiness benchmark](https://legit.show/s/scaneditpro-com).
+**[ScanEdit Pro](https://scaneditpro.com)** — Browser-based and desktop (Tauri) OCR editor for scanned PDFs and images. Fully client-side OCR in English, Italian, Spanish and French, and editing that rebuilds the page background around every correction; documents never leave the device. Scored **99/100** on [Legit.Show's production-readiness benchmark](https://legit.show/s/scaneditpro-com/2026-09-26): #1 in its category, top 1% of 13,854 services measured.
 `Tauri` `fabric.js` `pdf.js` `Tesseract.js` `Cloudflare Pages`
 
 **[Ceramic artist portfolio](https://angelicatulimiero.net)** — Designed and built end to end for a working artist: content-driven rendering, image-heavy layout, deploy pipeline via GitHub → Cloudflare Pages.
@@ -24,7 +24,7 @@ Most of my work lives in private repositories (commercial products, client work)
 
 - Solo across several concurrent projects — I own the full stack, from UI to deploy
 - Ship on GitHub → Cloudflare Pages, with an eye on production-readiness (security headers, CSP, privacy-first analytics, accessibility) not just "it works"
-- Client-side-first where it matters: ScanEdit Pro processes everything locally by design, not as an afterthought
+- Client-side-first where it matters: ScanEdit Pro processes everything locally, by design
 
 ## 📫 Reach me
 
