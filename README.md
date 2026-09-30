@@ -1,4 +1,4 @@
-# Hi, I'm Roberta (Arrow) 👋
+# Hi, I'm Roberta 👋
 
 Indie developer building small, focused tools — solo, end to end, from architecture to deploy.
 
